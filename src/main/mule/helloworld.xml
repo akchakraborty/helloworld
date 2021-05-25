@@ -10,5 +10,6 @@
 			</scheduling-strategy>
 		</scheduler>
 		<logger level="INFO" doc:name="Logger" doc:id="42d37d4d-1b5c-44ed-8584-0b46202cd661" message="logging data"/>
+		<logger level="INFO" doc:name="Logger" doc:id="af004692-3ff6-47dc-baca-9e84b4a29841" message="adding another logger."/>
 	</flow>
 </mule>
